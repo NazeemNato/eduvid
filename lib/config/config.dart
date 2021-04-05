@@ -1,0 +1,1 @@
+const String baseUrl = 'https://eduvidbackend.nazeemnato.repl.co/api/v1';
