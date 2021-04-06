@@ -13,6 +13,7 @@ class MyWeb  extends StatelessWidget {
       child: MaterialApp(
         title: 'Eduvid',
         onGenerateRoute: FluroRoutes.router.generator,
+        theme: ThemeData.dark()
       )
     );
   }
